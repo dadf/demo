@@ -1,0 +1,91 @@
+.img-google {
+    width: 60%;
+}
+
+.img-google-header {
+    width: 100%;
+}
+
+.div-background {
+    background-color: #fafafa;
+    padding-top: 2%;
+    padding-bottom: 5px;
+}
+
+.div-box {
+    padding-top: 20px;
+    font-family:
+}
+
+.font-link {
+    color: #1a0dab;
+    font-size: 24px;
+    font-family: arial, sans-serif;
+}
+
+.p-link {
+    color: #006621;
+    font-size: 18px;
+    font-family: arial, sans-serif;
+}
+
+.p-text {
+    color: #545454;
+    font-size: 18px;
+    font-family: arial, sans-serif;
+}
+
+.a-font {
+    font-size: 20px;
+}
+
+.p-header {
+    color: #0066ff;
+    font-size: 30px;
+    font-family: arial, sans-serif;
+}
+
+.outer {
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.middle {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.inner {
+    padding-top: -20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel {
+    margin-top: 5px;
+}
+
+.carousel .item img {
+    margin: 0 auto;
+}
+
+.p-ad {
+    background-color: #006621;
+    color: #fff;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.zoom-background {
+    background-color: #006621;
+    color: #fff;
+}
+
+.form-control-inline {
+    min-width: 0;
+    width: auto;
+    display: inline;
+}
